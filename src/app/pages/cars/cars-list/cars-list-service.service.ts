@@ -10,7 +10,7 @@ export class CarsListTableService extends AbstractTableData {
 
   getData() {
     return [
-      { sku: "1", marca: 'Volkswagen', modelo: 'Hatch', placa: 'ABC102', valorFipe: 54, cor: 'Azul' },
+      { sku: "1", marca: 'Volkswagen', modelo: 'Hatch', placa: 'ABC102', valorFipe: 50, cor: 'Azul' },
       { sku: "2", marca: 'Volkswagen', modelo: 'Hatch', placa: 'ABC103', valorFipe: 30, cor: 'Vermelho' },
       { sku: "3", marca: 'Volkswagen', modelo: 'Hatch', placa: 'ABC104', valorFipe: 45, cor: 'Vermelho' },
       { sku: "4", marca: 'Volkswagen', modelo: 'Sedan', placa: 'ABC105', valorFipe: 48, cor: 'Verde-claro' },
